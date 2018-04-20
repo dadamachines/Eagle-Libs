@@ -1,4 +1,4 @@
-# dadamachines – Eagle Libraries
+# Eagle Libraries
 
 
 ## Installation
